@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-    ### Hi there 👋
+### Hi there 👋
     
   <img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif" />
 
@@ -16,6 +16,9 @@
   </div>
   
   ### :man_technologist: About Me :
+    19 y.o
+    student
+    C# programmer
   
 </div>
 
