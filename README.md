@@ -16,9 +16,9 @@
   </div>
   
   ### :man_technologist: About Me :
-    19 y.o
-    student
-    C# programmer
+ - 19 y.o
+ - student
+ - C# programmer
   
 </div>
 
