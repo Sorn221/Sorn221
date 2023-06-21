@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  
+  ### Hi there 👋
+  
 <img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif" />
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -10,6 +14,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 </div>
+</div>
+
+
 
 <!--
 **Sorn221/Sorn221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
