@@ -23,7 +23,7 @@
   ### :man_technologist: About Me :
  - 19 y.o
  - student
- - C# and Python programmer ^^
+ 
 
  ### My Stats :
 
