@@ -21,7 +21,7 @@
 </div>
 
   ### :man_technologist: About Me :
- - 19 y.o
+ - 20 y.o
  - student
  
 
